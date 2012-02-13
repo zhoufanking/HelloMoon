@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HelloMoonActivity!</string>
+    <string name="app_name">HelloMoon</string>
+    <string name="Auth">Auth</string>
+    <string name="greeting">hello main</string>
+    <string name="maintitle">THE MAIN FRAME</string>
+    <string name="exit">退出</string>
+    <string name="about">关于</string>
+    <string name="overlapText">OverLapped Control</string>
+
+</resources>
